@@ -1,0 +1,7 @@
+pip
+autopep8
+
+flask
+requests
+websocket-client
+python-dotenv
